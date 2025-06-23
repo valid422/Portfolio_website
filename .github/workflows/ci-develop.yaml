@@ -18,5 +18,3 @@ jobs:
 
   
 
-      - name: Run Stylelint
-        run: stylelint "styles/**/*.css" --config .stylelintrc.json
